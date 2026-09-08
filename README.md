@@ -1,6 +1,6 @@
-## Hi there, I'm [Necris](https://github.com/necrisscript) 💀
+## Hi there, I'm Lucas from [necrisscript](https://github.com/necrisscript) 💀
 
-I'm a Cloud Engineer forged in the hybrid cloud, with over 5 years of operational experience. I operate from the shadows, designing and deploying automation solutions.
+I created this space to share code, build things, explore ideas, and collaborate with the community. A place for projects, experiments, and the occasional strange idea.
 
 **My Core Directives:**
 - ⚙️ Automation & Tooling
@@ -18,17 +18,17 @@ I'm a Cloud Engineer forged in the hybrid cloud, with over 5 years of operationa
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 ### AI & Agents
 
 ![CrewAI](https://img.shields.io/badge/CrewAI-013243?style=for-the-badge&logo=crewai&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-150458?style=for-the-badge&logo=n8n&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
 ### Databases
 
-![MariaDB](https://img.shields.io/badge/MariaDB-00000F?style=for-the-badge&logo=mariadb&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Tools & Technologies
