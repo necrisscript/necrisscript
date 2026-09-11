@@ -12,6 +12,20 @@ I created this space to share code, build things, explore ideas, and collaborate
 - 🚀 Collaborating on open-source projects
 - 🎮 Contributing to indie game development
 
+## Featured Projects
+
+### [Drywall Calculator](https://github.com/necrisscript/drywall_calculator) 📐
+Material estimation calculator for drywall construction.
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/necrisscript/drywall_calculator?style=flat-square&color=orange)](https://github.com/necrisscript/drywall_calculator/releases/latest)
+
+### [Text to Speech Converter](https://github.com/necrisscript/text_to_speech_converter) 🔊
+A tool to convert text into high-quality audio.
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/necrisscript/text_to_speech_converter?style=flat-square&color=green)](https://github.com/necrisscript/text_to_speech_converter/releases/latest)
+
+### [Bautismo Profano](https://github.com/necrisscript/bautismo_profano) 🕹️
+A dungeon crawler built from scratch in Lua using the LÖVE framework.
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/necrisscript/bautismo_profano?style=flat-square&color=blue)](https://github.com/necrisscript/bautismo_profano/releases/latest)
+
 ## Skills
 
 ### Languages
