@@ -21,7 +21,7 @@ Una herramienta para convertir texto en audio de alta calidad.
 
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/necrisscript/text_to_speech_converter?style=flat-square&color=green)](https://github.com/necrisscript/text_to_speech_converter/releases/latest)
 
-### [Dungeon Crawler](https://github.com/necrisscript/dungeon_crawler) 🕹️
+### [Bautismo Profano](https://github.com/necrisscript/bautismo_profano) 🕹️
 Un dungeon crawler creado desde cero en Lua usando el framework LÖVE.
 
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/necrisscript/bautismo_profano?style=flat-square&color=blue)](https://github.com/necrisscript/bautismo_profano/releases/latest)
