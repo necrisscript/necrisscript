@@ -1,8 +1,13 @@
-## ¡Hola! Soy Lucas, de [necrisscript](https://github.com/necrisscript) 💀
+## ¡Hola! Soy Lucas, de [necrisscript](https://github.com/necrisscript) 💻
 
-Este espacio es para compartir código, crear cosas, explorar ideas y colaborar con la comunidad. Aquí encontrarás proyectos, experimentos y alguna que otra idea extraña, muchos de ellos creados para aprender, probar cosas nuevas y disfrutar del proceso de programar con *vibe coding*.
+Este es mi espacio de experimentación: proyectos personales, herramientas
+chicas y algún que otro juego, hechos para aprender, probar ideas nuevas
+y disfrutar el proceso de programar.
 
-Son proyectos funcionales, aunque no pretenden ser soluciones profesionales ni estar listos para entornos de producción. Siéntete libre de usarlos, modificarlos y romper cosas bajo tu propia responsabilidad.
+Son proyectos funcionales y de código abierto, pensados como
+experimentos y utilidades personales — no como soluciones listas para
+producción. Si te sirven, usalos y modificalos con confianza; si algo
+falla, avisame o abrí un issue.
 
 **Estoy abierto a:**
 - 🛠️ Desarrollar herramientas para automatizar procesos
@@ -26,28 +31,15 @@ Un dungeon crawler creado desde cero en Lua usando el framework LÖVE.
 
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/necrisscript/bautismo_profano?style=flat-square&color=blue)](https://github.com/necrisscript/bautismo_profano/releases/latest)
 
-## Habilidades
-
-### Lenguajes
+## Herramientas que uso en estos proyectos
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-
-### IA y agentes
-
-![CrewAI](https://img.shields.io/badge/CrewAI-013243?style=for-the-badge&logo=crewai&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-
-### Bases de datos
 
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Herramientas y tecnologías
+![Podman](https://img.shields.io/badge/Podman-5E40BE?style=for-the-badge&logo=podman&logoColor=white)
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
